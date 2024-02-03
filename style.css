@@ -42,11 +42,7 @@ body {
   gap: 32px;
 }
 
-.header-logo,
-.header-nav,
-.header-btn {
-  flex-grow: 1;
-}
+
 
 .header-logo,
 .header-btn {
